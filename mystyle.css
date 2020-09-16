@@ -1,0 +1,31 @@
+body {
+    background-color: aqua
+}
+
+h1 {
+    background-color: transparent;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: serif;
+    color: darkorchid
+}
+
+h2 {
+    background-color: dodgerblue
+}
+
+p {
+    background-color: rgb(250, 0, 255)
+}
+
+img {
+    background-color: black;
+    width: "2500px";
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+iframe {
+    width: 1500px;
+    height: 800px;
+}
