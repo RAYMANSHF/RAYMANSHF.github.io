@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: aqua
 }
 
@@ -33,8 +33,43 @@ div {
 iframe {
     width: 3500px;
     height: 800px
+} */
+
+#header {
+    background-color: black;
+    color: aliceblue;
+    text-emphasis: none;
+    text-align: center;
+    padding: 5px;
 }
 
-.src {
-    text-decoration: none
+#nav {
+    line-height: 30px;
+    background-color: #eeeeee;
+    height: 1001px;
+    width: 110px;
+    padding: 5px;
+    float: left;
 }
+
+#section {
+    height: 1001px;
+    background-color: transparent;
+    border: pink;
+    /* padding: 5px; */
+    float: left;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    padding: -5px;
+    clear: both;
+    text-align: center;
+}
+
+
+/* #id {
+    width: 920px;
+    height: 550px
+} */
